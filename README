@@ -6,7 +6,7 @@
 This web application is a learning platform that attempts to teach about
 common web security flaws. It contains generic security flaws that apply to
 most web applications. It also contains lessons that specifically pertain to
-the .NET framework. The excercises in this app are intented to teach about 
+the .NET framework. The excercises in this app are intented to teach about a
 web security attacks and how developers can overcome them.
 
 WARNING: THIS WEB APPLICATION CONTAINS NUMEROUS SECURITY VULNERABILITIES 
